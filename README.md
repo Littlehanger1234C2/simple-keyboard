@@ -83,3 +83,5 @@ Want to create your own module? Check out the [Modules page](https://hodgef.com/
 
 PRs and issues are always welcome. Feel free to submit any issues you have at:
 [https://github.com/hodgef/simple-keyboard/issues](https://github.com/hodgef/simple-keyboard/issues)
+
+## RATINGS I guess?
