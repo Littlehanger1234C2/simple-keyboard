@@ -57,9 +57,9 @@ Feel free to browse the [Questions & Answers (FAQ)](https://simple-keyboard.com/
 * [Angular](https://simple-keyboard.com/demo)
 * [Vue.js](https://simple-keyboard.com/demo)
 
-### Questions? Join the chat
+### Questions? DON'T Join the chat
 
-<a href="https://discordapp.com/invite/SJexsCG" title="Join our Discord chat" target="_blank"><img src="https://discordapp.com/api/guilds/498978399801573396/widget.png?style=banner2" align="center"></a>
+OUT 😟F ORDER
 
 ## Modules ✳️ 
 
