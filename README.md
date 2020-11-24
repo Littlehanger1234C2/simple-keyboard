@@ -30,8 +30,8 @@
 
 <blockquote>The slick virtual keyboard for Javascript. Compatible with your JS, React, Angular or Vue projects.</blockquote>
 
-## Demo 🚀 
-[Demo Showcase (Vanilla, Angular, React, Vue)](https://simple-keyboard.com/demo)
+## Demo 🚀 4 FUN! 
+[LANCH DEMO! 🖥➡💻](https://simple-keyboard.com/demo)
 
 ## Installation & Usage 📦 
 You can use simple-keyboard as a `<script>` tag from a CDN, or install it from npm.
@@ -83,5 +83,3 @@ Want to create your own module? Check out the [Modules page](https://hodgef.com/
 
 PRs and issues are always welcome. Feel free to submit any issues you have at:
 [https://github.com/hodgef/simple-keyboard/issues](https://github.com/hodgef/simple-keyboard/issues)
-
-## RATINGS I guess?
